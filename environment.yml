@@ -1,0 +1,14 @@
+name: nova-audio
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - numpy
+  - matplotlib
+  - scipy
+  - pytest
+  - pytest-cov
+  - jupyter
+  - ipykernel
