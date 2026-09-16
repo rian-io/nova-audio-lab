@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "nova-audio-lab"
+name = "nova-audio"
 version = "0.1.0"
 description = "Educational digital audio processing laboratory for Nova"
 requires-python = ">=3.14"
